@@ -12,7 +12,10 @@ import io.vertx.sqlclient.Tuple;
  * class io.vertx.core.AbstractVerticle
  * 
  * This Hello World example creates a simple HTTP server,
- * that will accept connections from the a pre-defined port
+ * that will accept connections from the a pre-defined port.
+ * 
+ * This particular one demonstrates JDBC Principles in the 
+ * context of Vert.x
  * 
  * @author mwangigikonyo
  *
